@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omkar Gadale</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 
 - 🔭 I’m currently working on **CI/CD Pipeline using Azure**
 
-- 🌱 I’m currently learning **Jenkins, chef ,javascript ,Ruby**
+- 🌱 I’m currently learning **Jenkins, chef , javascript ,Ruby**
 
 - 👯 I’m looking to collaborate on **DevSecOps Projects**
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Linux ,AWS**
 
 - 📫 How to reach me **gadaleomkar12@gmail.com**
+
+- 🌐 Here is my portfolio website  https://omkar-gadale.github.io/
 
 - 📄 Know about my experiences / Resume [https://drive.google.com/file/d/1t3oNhC08-T1XGTQ1GxbvGvCsgeAcaQvk/view?usp=sharing](https://drive.google.com/file/d/1t3oNhC08-T1XGTQ1GxbvGvCsgeAcaQvk/view?usp=sharing)
 
