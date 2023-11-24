@@ -15,7 +15,7 @@
 
 - 🌐 Here is my portfolio website  https://omkar-gadale.github.io/
 
-- 📄 Know about my experiences / Resume [https://drive.google.com/file/d/1t3oNhC08-T1XGTQ1GxbvGvCsgeAcaQvk/view?usp=sharing](https://drive.google.com/file/d/1t3oNhC08-T1XGTQ1GxbvGvCsgeAcaQvk/view?usp=sharing)
+- 📄 Know about my experiences / Resume [https://drive.google.com/file/d/1t3oNhC08-T1XGTQ1GxbvGvCsgeAcaQvk/view?usp=sharing](https://drive.google.com/file/d/1DSWM4ygHWjwzXVV6XVXXDfk4EecVAvln/view?usp=sharing)
 
 - ⚡ Fun fact **I love going off-roading on the weekends**
 
